@@ -85,3 +85,14 @@ body {
 #planets tr {
   margin-bottom: 15px;
 }
+
+#planets img {
+  width: 100px;
+  height: 100px;
+}
+
+#mercury img {
+  width: 100px;
+  height: 100px;
+}
+
